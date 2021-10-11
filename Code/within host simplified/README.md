@@ -13,3 +13,12 @@ A few files of note:
 - `TIP_heatmap_effect_heatmap.pdf/.png` provides the zoomed-out heatmap in Figure S1G.
 - `TIP_heatmap_effect_zoom_upper_right_heatmap.pdf/.png` provides the zoomed-in heatmap in Figure S1G.
 - The `_AUC` versions of the figures provide the integrated area under the curve (rather than peak viral load).
+
+Dependencies are:
+- python3 (3.7.3)
+- numpy (1.19.4)
+- scipy (1.5.4)
+- numba (0.51.2)
+- matplotlib (3.3.3)
+- pandas (1.1.4)
+- seaborn (0.11.0)

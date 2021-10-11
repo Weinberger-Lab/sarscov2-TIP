@@ -7,3 +7,12 @@ The transmission probability is calculated from viral load using two parameters 
 We first recalibrated the model in the context of wildtype virus only (non-treated) transmission. Then, we simulated the effect of either direct TIP treatment (high dosage) or indirect TIP treatment (low dosage). The results for a representative directly-treated individual are also provided.
 
 Relevant to Figure S1G.
+
+Dependencies are:
+- python3 (3.7.3)
+- numpy (1.19.4)
+- scipy (1.5.4)
+- numba (0.51.2)
+- matplotlib (3.3.3)
+- pandas (1.1.4)
+- seaborn (0.11.0)
