@@ -2,7 +2,8 @@
 Raw data and code associated with "An engineered SARS-CoV-2 interfering particle inhibits multiple variants and exhibits a high barrier to resistance".
 
 ## Raw data
-In progress. See XXXXX for RNA-seq data.
+RNASeq data are available at GEO with accession number GSE184447.
+Other raw tabulated data are available at XXXX.
 
 ## Code
 Contains code for simulation and visualization for within-host and between-host dynamics results. Dependencies:
