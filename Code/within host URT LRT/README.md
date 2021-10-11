@@ -9,3 +9,12 @@ All code, figures, and results are present under the `Simulation Code` folder. F
 - `within_host_model_base_100virion.py` simulates and plots results for Fig. S1C
 
 The resultant .csv files from running the simulation code are present in the folder -- so it is possible to simply use the `...from_file...` function calls (and comment out the other function calls) within `main()` to render plots.
+
+Dependencies are:
+- python3 (3.7.3)
+- numpy (1.19.4)
+- scipy (1.5.4)
+- numba (0.51.2)
+- matplotlib (3.3.3)
+- pandas (1.1.4)
+- seaborn (0.11.0)
