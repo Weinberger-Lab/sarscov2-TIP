@@ -1,5 +1,5 @@
 # sarscov2-TIP
-Raw data and code associated with "Identification of a Therapeutic Interfering Particle (TIP): a single-administration SARS-CoV-2 antiviral with a high barrier to the evolution of resistance".
+Raw data and code associated with "Identification of a Therapeutic Interfering Particle (TIP): a single-dose SARS-CoV-2 antiviral with a high barrier to the evolution of resistance".
 
 ## Raw data
 - RNASeq data are available at GEO with accession number GSE184447.
