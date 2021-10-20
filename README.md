@@ -1,4 +1,7 @@
 # sarscov2-TIP
+Initial release (v1.0.0): <br>
+[![DOI](https://zenodo.org/badge/413990908.svg)](https://zenodo.org/badge/latestdoi/413990908)
+
 Raw data and code associated with "Identification of a Therapeutic Interfering Particle (TIP) – an antiviral for SARS-CoV-2 with a high barrier to the evolution of resistance".
 
 ## Raw data
